@@ -2,9 +2,9 @@
 export default function Home() {
   return (
 
-    <main>
+    <div>
       sssdsdsd
-
-    </main>
+      s
+    </div>
   )
 }
